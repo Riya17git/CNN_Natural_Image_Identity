@@ -19,4 +19,4 @@ This project implements a complete pipeline for image classification using Tenso
 - Jupyter / Colab or any IDE
 
 ## Example of Dataset
-![jpg](images/cnn 1.jpg)
+![image alt](https://github.com/Riya17git/CNN_Natural_Image_Identity/blob/main/cnn%201.jpg?raw=true)
