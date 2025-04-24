@@ -20,3 +20,6 @@ This project implements a complete pipeline for image classification using Tenso
 
 ## Example of Dataset
 ![image alt](https://github.com/Riya17git/CNN_Natural_Image_Identity/blob/main/cnn%201.jpg?raw=true)
+
+## Output of model
+![image alt](https://github.com/Riya17git/CNN_Natural_Image_Identity/blob/main/cnn%202.jpg?raw=true)
