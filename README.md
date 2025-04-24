@@ -19,3 +19,4 @@ This project implements a complete pipeline for image classification using Tenso
 - Jupyter / Colab or any IDE
 
 ## Example of Dataset
+![png](images/plot_3.png)
